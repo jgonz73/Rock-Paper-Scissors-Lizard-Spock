@@ -6,5 +6,6 @@ is handled using Java networking through sockets. The server handles each client
 
 ## Built With
 JavaFX - to make the GUI's.
+
 Maven - manage dependencies.
 
